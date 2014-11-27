@@ -13,7 +13,7 @@
   "version": "0.0.6",
   "repository": {
     "type": "git",
-    "url": "git://github.com/groupdock/mongoose-nested-set.git"
+    "url": "git://github.com/herrerodani/mongoose-nested-set.git"
   },
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,8 @@
     "node": "> 0.7.x"
   },
   "dependencies": {
-    "mongoose": "~2.5.14",
-    "async": "~0.1.22"
+    "mongoose": "*",
+    "async": "*"
   },
   "devDependencies": {
     "nodeunit": "~0.7.4"
